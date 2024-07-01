@@ -9,7 +9,9 @@
 
 
 ---------------
+![[content/Arinthal Campaign/City.png]]
 
+![[content/Arinthal Campaign/Arinthal.png]]
 
 Arinthal es un pequeño reino rodeado de grandes potencias, por esto se ve condenado a seguir las ordenes politicas y militares (en tiempos de guerra) de los demas paises, este año el rey ha muerto de una enfermedad del corazon a una larga edad de 55.
 
@@ -86,9 +88,9 @@ Feats:
 
 Historia:
 
-Anya nació en una pequeña aldea en el reino de Arinthal. Desde muy joven, mostró una gran fuerza y una aptitud natural para la lucha. A la edad de 18 años, se unió al ejército del reino y rápidamente se convirtió en una de sus mejores guerreras.
+Anya nació en una pequeña aldea en el reino de Arinthal. Desde muy joven, mostró una gran fuerza y una aptitud natural para la lucha. A la edad de 18 años, se unió al ejército del reino y rápidamente se convirtió en una de sus mejores guerreros.
 
-Anya sirvió en el ejército durante 10 años, luchando en muchas batallas. Durante ese tiempo, se ganó una reputación de ser una luchadora feroz y despiadada.
+Anya sirvió en el ejército durante 10 años, luchando en muchas batallas. Durante ese tiempo, se ganó una reputación de ser un luchador feroz y despiadado.
 
 Cuando el rey murió, Anya fue una de las primeras en ofrecer sus servicios al nuevo rey, Amir. Anya está decidida a proteger a Arinthal de cualquier amenaza, tanto interna como externa.
 

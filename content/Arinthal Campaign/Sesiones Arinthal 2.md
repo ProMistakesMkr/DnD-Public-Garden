@@ -8,7 +8,9 @@
 
 ---------------
 
+![[content/Arinthal Campaign/City.png]]
 
+![[content/Arinthal Campaign/Arinthal.png]]
 Arinthal es un pequeño reino rodeado de grandes potencias, por esto se ve condenado a seguir las ordenes politicas y militares (en tiempos de guerra) de los demas paises, este año el rey ha muerto de una enfermedad del corazon a una larga edad de 55.
 
 La ceremonia funeraria se realizo dias despues y luego vino la fiesta de coronacion del nuevo rey, primogenito de la familia real y unico hijo.  Amir habia estado viajando los demas paises durante 5 años, conociendo a sus governantes y la cultura exterior, todo esto acompañado de su madre. Aprendio sobre la posicion politica de su pais muy temprano en su viaje y desde entonces tuvo contacto zero hasta su regreso a su coronacion.
