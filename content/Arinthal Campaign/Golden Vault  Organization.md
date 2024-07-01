@@ -1,6 +1,20 @@
+---
+title: Organizacion "La  Boveda Dorada"
+draft: false
+tags:
+  - example-tag
+  - boveda-dorada
+---
+
+ 
+The rest of your content lives here. You can use **Markdown** here :)
+
+
+
 **Enfoque de la misión:** su objetivo principal es adquirir artículos valiosos, a menudo por lo que creen que es una causa justa. "Hacer el bien, cueste lo que cueste" parece ser su lema no oficial.
 
 **El secreto es primordial:** The Golden Vault opera en las sombras. Evitan revelar sus identidades y métodos para protegerse a sí mismos y a sus agentes.
+
 
 **Moralidad selectiva:** si bien sus intenciones son buenas, sus métodos pueden ser cuestionables. Podrían recurrir al robo o al engaño para lograr sus objetivos, incluso si eso infringe la ley.
 
