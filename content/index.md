@@ -1,7 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Arinthal - Bienvenidos aventureros
 tags:
-  - welcome
+  - Bienvenida
 ---
 
 This is a blank Quartz installation.
