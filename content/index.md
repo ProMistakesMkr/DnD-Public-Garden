@@ -19,12 +19,12 @@ Este índice les servirá de guía en su viaje, permitiéndoles acceder a inform
     - Cultura y costumbres
     - Organizaciones y facciones
 2. **Personajes Clave**
-    - Anya (El barbaro bartender)
-    - Matreus (el sabio alquimista)
-    - Meera Raheer (representante de la Bóveda Dorada)
-    - Falso Príncipe Amir
-    - Otros personajes relevantes
-3. **Eventos Recientes**
+    - [[Anya]] (El barbaro bartender)
+    - [[Matreus]] (el sabio alquimista)
+    - [[Meera Raheer]] (representante de la Bóveda Dorada)
+    - Falso Príncipe [[Amir]]
+    - Dr. Cassee Danell
+3. **Eventos Recientes** [[Sesiones Arinthal 3]]
     - Ataques a las fiestas de coronación
     - Descubrimiento del falso príncipe
     - Búsqueda de los artefactos mágicos
@@ -41,6 +41,6 @@ Este índice les servirá de guía en su viaje, permitiéndoles acceder a inform
     - La búsqueda de los artefactos mágicos
     - La amenaza del huevo del horror cósmico
 7. **Próximos Pasos**
-    - Ideas y sugerencias para continuar la campaña
+    - ----
 
 **¡Que la suerte los acompañe en su aventura!**
