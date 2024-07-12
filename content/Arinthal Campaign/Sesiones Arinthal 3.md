@@ -9,9 +9,9 @@
 
 
 ---------------
-![[content/Arinthal Campaign/City.png]]
+![[content/Arinthal Campaign/IMGS/City.png]]
 
-![[content/Arinthal Campaign/Arinthal.png]]
+![[content/Arinthal Campaign/IMGS/Arinthal.png]]
 
 Arinthal es un pequeño reino rodeado de grandes potencias, por esto se ve condenado a seguir las ordenes politicas y militares (en tiempos de guerra) de los demas paises, este año el rey ha muerto de una enfermedad del corazon a una larga edad de 55.
 
