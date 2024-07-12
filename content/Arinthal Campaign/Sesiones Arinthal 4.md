@@ -197,7 +197,7 @@ Al entrar en "[[La pluma del sabio]]"(nombre del bar), una luz suave revela mueb
 Se abre mañana y el huevo está a punto de eclosionar. "¡Tienes que robar la Piedra Murkmire y traerla de vuelta para que pueda salvar la ciudad!"
 
 
-	- Una gala se va a celebrar esta noche para la exhibicion de la piedra de mañana, la gala se celebrara en el segundo piso en el ala de las piedras preciosas
+- Una gala se va a celebrar esta noche para la exhibicion de la piedra de mañana, la gala se celebrara en el segundo piso en el ala de las piedras preciosas
 	- No tienen que asistir a la gala, pero esa sera la unica manera en que podran ver la piedra y las medidas de seguridad que la rodean
 	- La Dra. les da tiquetes para la gala a cada uno
 	- Les dice que tiene ropa apta para todos, y que pueden usar su bag of holding para guardar el quipo de aventura que necesitaran mas tarde para escabullirse dentro del museo despues de la gala
