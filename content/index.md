@@ -11,7 +11,12 @@ Prepárense para adentrarse en un reino sumido en el misterio y la intriga. Un f
 
 Este índice les servirá de guía en su viaje, permitiéndoles acceder a información crucial sobre la historia del reino, los personajes clave, los eventos recientes y los poderosos artefactos mágicos que han descubierto. Úsenlo sabiamente y desentrañen la verdad que se esconde tras la fachada de Arinthal.
 
+---------
+
 Sesion actual [[Sesiones Arinthal 4]]
+
+----------
+
 
 **Índice de Contenidos**
 
@@ -25,24 +30,25 @@ Sesion actual [[Sesiones Arinthal 4]]
     - [[Matreus]] (el sabio alquimista)
     - [[Meera Raheer]] (representante de la Bóveda Dorada)
     - Falso Príncipe [[Amir]]
-    - Dr. Cassee Danell
-3. **Eventos Recientes** [[Sesiones Arinthal 3]]
+    - [[Dr. Cassee Danell]]
+3. **Eventos Recientes** [[Sesiones Arinthal 4]]
     - Ataques a las fiestas de coronación
     - Descubrimiento del falso príncipe
     - Búsqueda de los artefactos mágicos
     - Encuentro con la Dra. Cassee Dannell y el huevo del horror cósmico
-4. **Objetos Mágicos Descubiertos**
+    - [[Incidente del museo]].
+1. **Objetos Mágicos Descubiertos**
     - Chime of Opening
     - Gem of Brightness
     - Eyes of Minute Seeing
     - Feather Token (como ancla)
-5. **Organizaciones**
+2. **Organizaciones**
     - La Bóveda Dorada
-6. **Hilos Activos de la Trama**
+3. **Hilos Activos de la Trama**
     - El misterio del falso príncipe
     - La búsqueda de los artefactos mágicos
     - La amenaza del huevo del horror cósmico
-7. **Próximos Pasos**
+4. **Próximos Pasos**
     - ----
 
 **¡Que la suerte los acompañe en su aventura!**

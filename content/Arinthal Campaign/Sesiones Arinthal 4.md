@@ -176,7 +176,7 @@ Regresaron donde Matreus y subieron a nivel 3
 
 Los jugadores entran a la ciudad y la exploran 
 
-Se encuentran con Matreus que los inicia en su siguiente aventura, se reunen en algun lugar privado donde conocen a Meera Raheer, ella los inicia en la organizacion Boveda Dorada.[[Golden Vault Organization]]
+Se encuentran con Matreus que los inicia en su siguiente aventura, se reunen en algun lugar privado donde conocen a Meera Raheer, ella los inicia en la [[Golden Vault Organization]]
 
 	- Le dice a Matreus que si ha encontrado buenos activos para la organizacion.
 	- Murmuran e introduce a los personajes
@@ -216,6 +216,17 @@ Se abre mañana y el huevo está a punto de eclosionar. "¡Tienes que robar la P
 
 
 
+### Sesion 4 - 12/07/24
+
+
+
+
+
+### Deseos de los Jugadores
+
+- Un hacha que haga un chingo de daño
+- Un escudo una trichimba
+- Cita con [[Claydon]] 
 
 
 
@@ -225,8 +236,8 @@ Se abre mañana y el huevo está a punto de eclosionar. "¡Tienes que robar la P
 	- Matreus y Anya lideran una resistencia para saber que sucedio
 	- Matreus esta desarrollando la cura para la memoria
 	- Anya esta convocando a los lideres de los clanes principales
-- El huevo de un horror cosmico esta por salir a la luz
-	- Los jugadores fueron reclutados por la boveda dorada para solucionar esto
+- El huevo de un horror cosmico esta por salir a la luz ✅
+	- Los jugadores fueron reclutados por la boveda dorada para solucionar esto✅
 
 
 ## Los jugadores ya conocen sobre
@@ -245,7 +256,6 @@ Se abre mañana y el huevo está a punto de eclosionar. "¡Tienes que robar la P
 - [[Anya]]
 - 
 
-## Resumen
+## Resumen de la ultima sesion
 -----
-- Resumen de la ultima sesion
-- 
+- Los jugadores activaron el allosaurio dentro del museo, encontraron un huevo falso, y lo llevaron a donde [[Matreus]], el cual les confirmo que era un huevo falso y tenian que volver a infiltrarse en el museo, [[Claydon]] fue usado como distraccion mientras los demas entraban al museo y lo exploraban, tambien combatian. Llegan al sotano y encuentran no solo el huevo sino las estatuas que se mueven mientras no hay vision. Logran salir apenas y vuelven donde Matreus. [[Benimaru]] se despide de los demas, ya que tiene asuntos sin resolver en su pueblo natal; al cerrar el portal que lo lleva a casa, el pedazo de piedra que se roba [[Dave, el barbaro]], brilla y teletransporta a un nuevo personaje, [[Iris]], quien es un warforged sin voz y un sentido de fuerza por encima de todo. [[Matreus]] queda con la tarea de revisar la gran hacha de [[Nala'zar]] en un intento por recuperar la magia alguna vez en ella.
