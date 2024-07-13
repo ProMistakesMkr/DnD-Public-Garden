@@ -15,6 +15,8 @@ Este índice les servirá de guía en su viaje, permitiéndoles acceder a inform
 
 Sesion actual [[Sesiones Arinthal 4]]
 
+Lore Arinthal: [[arinth]]
+
 ----------
 
 
