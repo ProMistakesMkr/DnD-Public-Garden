@@ -11,6 +11,8 @@ Prepárense para adentrarse en un reino sumido en el misterio y la intriga. Un f
 
 Este índice les servirá de guía en su viaje, permitiéndoles acceder a información crucial sobre la historia del reino, los personajes clave, los eventos recientes y los poderosos artefactos mágicos que han descubierto. Úsenlo sabiamente y desentrañen la verdad que se esconde tras la fachada de Arinthal.
 
+Sesion actual [[Sesiones Arinthal 4]]
+
 **Índice de Contenidos**
 
 1. **El Reino de Arinthal** [[Reino de Arinthal|Lore]]
