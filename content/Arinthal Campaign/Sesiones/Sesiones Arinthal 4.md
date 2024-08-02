@@ -218,9 +218,9 @@ Se abre mañana y el huevo está a punto de eclosionar. "¡Tienes que robar la P
 
 ### Sesion 4 - 12/07/24
 
+Los jugadores activaron el allosaurio dentro del museo, encontraron un huevo falso, y lo llevaron a donde [[Matreus]], el cual les confirmo que era un huevo falso y tenian que volver a infiltrarse en el museo, [[Claydon]] fue usado como distraccion mientras los demas entraban al museo y lo exploraban, encontrando alarmas magicas, guardias y diversos desafios. Llegan al sotano y encuentran el huevo rodeado de unas estatuas que pronto descubren estan vivas; estas estatuas los persiguen cada vez que salen de su rango de vision, son tan rapidas como sus parpadeos y tan resistentes como un Goliath. Logran salir sacrificando la exploracion de las demas areas del sotano y vuelven donde Matreus. [[Benimaru]] se despide de los demas, ya que tiene asuntos sin resolver en su pueblo natal; al cerrar el portal que lo lleva a casa, el pedazo de piedra que se roba [[Dave, el barbaro]], brilla y teletransporta a un nuevo personaje, [[Iris]], quien es un warforged sin voz y un sentido de fuerza por encima de todo. [[Matreus]] queda con la tarea de revisar la gran hacha de [[Nala'zar]] en un intento por recuperar la magia alguna vez en ella.
 
-
-
+[[Incidente del museo]]. 
 
 ### Deseos de los Jugadores
 

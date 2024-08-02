@@ -15,7 +15,7 @@ Este índice les servirá de guía en su viaje, permitiéndoles acceder a inform
 
 Sesion actual [[Sesiones Arinthal 4]]
 
-Lore Arinthal: [[arinth]]
+Lore Arinthal: [[content/Arinthal Campaign/Lugares/Reino de Arinthal|Reino de Arinthal]]
 
 ----------
 
@@ -49,7 +49,7 @@ Lore Arinthal: [[arinth]]
 3. **Hilos Activos de la Trama**
     - El misterio del falso príncipe
     - La búsqueda de los artefactos mágicos
-    - La amenaza del huevo del horror cósmico
+    - La amenaza del huevo del horror cósmico ✅
 4. **Próximos Pasos**
     - ----
 
