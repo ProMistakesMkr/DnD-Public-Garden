@@ -17,6 +17,8 @@ Sesion actual [[Sesiones Arinthal 4]]
 
 Lore Arinthal: [[content/Arinthal Campaign/Lugares/Reino de Arinthal|Reino de Arinthal]]
 
+Noticias: [[Noticias Reales 1]].
+
 ----------
 
 
