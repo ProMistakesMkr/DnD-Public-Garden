@@ -41,7 +41,6 @@ En tiempos recientes, la ciudad ha experimentado una transformación significati
     - **Descripción:** El taller del herrero es un lugar donde se fabrican y reparan armas, armaduras y otros objetos metálicos. El herrero es conocido por su habilidad y la calidad de su trabajo.
 7. **H: Centro Religioso:**
     
-
 - **Ubicación:** En el distrito oeste de la ciudad.
 - **Descripción:** Este es un lugar de culto para varias deidades de D&D, [REDACTED]
 
@@ -69,3 +68,4 @@ La educación es altamente valorada, especialmente en las artes mágicas, y much
 - **Líderes:** Los líderes de la Bóveda Dorada son figuras enigmáticas, y sus identidades están protegidas por capas de secretismo. Se sabe que tienen contactos en todas las esferas de la sociedad, desde el gobierno hasta los gremios de mercaderes y los círculos arcanos.
 - **Objetivos:** Sus objetivos aparentes son acumular poder y riqueza, pero algunos creen que buscan algo más profundo y oscuro relacionado con la magia y la historia oculta de Arinthal.
 - **Aliados:** [[Meera Raheer]].
+

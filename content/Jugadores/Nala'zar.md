@@ -5,4 +5,23 @@ tags:
   - example-tag
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
+## Description
+-----------------------
+
+- Mujer tetona dragonoide 
+- Color azul
+
+
+## Personal Quest
+---------------------
+- Quiere reconstruir el clan, mas no liderarlo.
+
+
+## Backstory
+---------------------
+
+- Su clan se disolvio porque lo desprestigiaron.
+
+
+
+## Backlinks
