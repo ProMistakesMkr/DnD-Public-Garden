@@ -222,6 +222,8 @@ Los jugadores activaron el allosaurio dentro del museo, encontraron un huevo fal
 
 [[Incidente del museo]]. 
 
+[[Noticias Reales 1]].
+
 ### Deseos de los Jugadores
 
 - Un hacha que haga un chingo de daño
